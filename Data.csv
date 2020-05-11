@@ -1,1 +1,6 @@
-Match,ME,MI,MS,MA,FE,FI,FS,FA0,I,S,T,J,E,N,F,J1,E,S,F,P,E,S,F,J1,E,N,T,J,I,N,T,P0,I,N,F,P,I,S,T,P
+Match,ME,MI,MS,MA,FE,FI,FS,FA
+0,I,S,T,J,E,N,F,J
+1,E,S,F,P,E,S,F,J
+1,E,N,T,J,I,N,T,P
+0,I,N,F,P,I,S,T,P
+0,I,S,F,P,I,N,F,J
